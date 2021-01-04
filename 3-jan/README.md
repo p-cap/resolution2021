@@ -3,7 +3,9 @@ This is a SWIFTUI application that contains a list of users pulled from a https:
 More detailed information of each user is seen when you click on a specific row
 
 
-![plot](./images/*.png)
+![plot](./images/List.png)
+![plot](./images/details.png)
+
 
 References:
 
