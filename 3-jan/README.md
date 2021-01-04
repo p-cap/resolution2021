@@ -2,9 +2,9 @@ This is a SWIFTUI application that contains a list of users pulled from a https:
 
 More detailed information of each user is seen when you click on a specific row
 
-
-![plot](./images/List.png)
-![plot](./images/details.png)
+<p align="center">
+  <img src="./images/List.png" width="300" title="hover text">
+</p>
 
 
 References:
