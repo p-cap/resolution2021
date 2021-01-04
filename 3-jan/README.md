@@ -4,6 +4,7 @@ More detailed information of each user is seen when you click on a specific row
 
 <p align="center">
   <img src="./images/List.png" width="300" title="hover text">
+  <img src="./images/details.png" width="300" title="hover text">
 </p>
 
 
