@@ -5,6 +5,7 @@ More detailed information of each user is seen when you click on a specific row
 References:
 
 "SwiftUI Fetch JSON Data into List"
+
 https://www.ioscreator.com/tutorials/swiftui-json-list-tutorial
 
 "How to add NavigationView to List in SwiftUI and show detail view using NavigationLink"
