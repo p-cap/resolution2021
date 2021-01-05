@@ -37,7 +37,7 @@ struct ContentView: View {
                                  Text("")
                              }
                              Button("Login"){
-                                if username == "Ate" && password == "Soccer" {
+                                if username == "admin" && password == "password" {
                                  self.isActive = true
                                 }
                              }.foregroundColor(.white)
